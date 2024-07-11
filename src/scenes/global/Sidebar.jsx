@@ -157,14 +157,14 @@ const Sidebar = () => {
                         </Typography>
                         <Item
                             title="Profile From"
-                            to="/from"
+                            to="/form"
                             icon={<PersonOutlinedIcon />}
                             selected={selected}
                             setSelected={setSelected}
                         />
                         <Item
-                            title="Calender"
-                            to="/calender"
+                            title="Calendar"
+                            to="/calendar"
                             icon={<CalendarTodayOutlinedIcon />}
                             selected={selected}
                             setSelected={setSelected}
